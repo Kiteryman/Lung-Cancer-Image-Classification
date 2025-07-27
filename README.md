@@ -1,4 +1,4 @@
-# Lung Cancer Image Classification using ResNet-18
+# Lung Disease Image Classification using ResNet-18
 Dataset: https://drive.google.com/file/d/1qMiBYwDkytBVsN0_K5iONw6trHPhbjI0/view?usp=sharing
 
 This repository contains a PyTorch script for training a ResNet-18 model from scratch to classify lung cancer images. The model is trained on a dataset provided in `.npz` format and implements modern deep learning techniques to achieve high accuracy. The final model achieves **~90.0% accuracy** on the test set.
