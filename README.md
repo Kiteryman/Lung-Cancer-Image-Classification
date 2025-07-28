@@ -26,7 +26,7 @@ The primary goal of this project is to build an effective image classifier for a
 
 The model was trained and evaluated, yielding the following results on the test set:
 
-- **Final Test Accuracy (Standard)**: `90.05%`
-- **Final Test Accuracy (with TTA)**: `90.02%`
+- **Final Test Accuracy (Standard)**: `92.16%`
+- **Final Test Accuracy (with TTA)**: `92.14%`
 
 The best performing model checkpoint is saved to `best_lung_cancer_model_resnet18_from_scratch.pth`.
