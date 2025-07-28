@@ -29,4 +29,4 @@ The model was trained and evaluated, yielding the following results on the test 
 - **Final Test Accuracy (Standard)**: `92.16%`
 - **Final Test Accuracy (with TTA)**: `92.14%`
 
-The best performing model checkpoint is saved to `best_lung_cancer_model_resnet18_from_scratch.pth`.
+The best performing model checkpoint is saved to `Best ResNet-18 Model.7z`.
